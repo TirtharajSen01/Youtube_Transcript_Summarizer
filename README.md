@@ -1,10 +1,10 @@
-#Youtube-Transcript-Summarizer
-Made by Tirtharaj Sen
+# Youtube Transcript Summarizer
+-Made by Tirtharaj Sen
 
-#What it is:
--
+## What it is:
+-With the help of this project one can skip watching long youtube videos and start reading the summary of the videos and thus saving a lot of time.This project useds Natural Language Processing to generate the summary of the videos.
 
-#How to use:
+## How to use:
 - Set up a virtual environment in an appropriate location
 - Activate the virtual environment and install dependencies
 ```
@@ -19,7 +19,7 @@ pip install -r requirement.txt
 
 # 1. For getting Youtube captions 
 - pip install youtube_transcript_api
-# 2. # For getting audio from Youtube url with headless browser: 
+# 2. For getting audio from Youtube url with headless browser: 
 - https://sites.google.com/a/chromium.org/chromedriver/downloads
 - pip install selenium
 - Add current repo directory to PATH to allow Selenium to access the chromedriver.exe
