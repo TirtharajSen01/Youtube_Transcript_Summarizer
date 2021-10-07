@@ -1,5 +1,5 @@
-# youtube-summarizer
-Made by Vala Vakilian, Thong Nguyen, Pedram Amani, Kausik Krishnakumar, and Fisher Xue for nwHacks 2019!
+#Youtube-Transcript-Summarizer
+Made by Tirtharaj Sen
 
 #What it is:
 -
